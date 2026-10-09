@@ -41,7 +41,7 @@ example in mainland China), get the same files from the [website](https://pocket
    - **Windows:** run `Pocket-Windows-Setup.exe`. If SmartScreen stops it, click **More info → Run anyway**. Pocket
      then sits in the system tray. Right-click its icon to pause syncing or quit.
    - Sign in from the Pocket icon. A page opens in your browser where you can sign in or create an account. The
-     desktop app is only in Chinese for now.
+     Mac app follows your system language; the Windows tray is in Chinese for now.
 2. **Install the phone app and sign in with the same account.**
    - **Android:** install `Pocket.apk`, allowing apps from unknown sources when asked.
    - **iPhone:** Pocket isn't on the App Store yet and TestFlight is invite-only. Until then, sideload
