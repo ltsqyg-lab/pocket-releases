@@ -17,7 +17,7 @@ Claude Code, Codex, pi, Kimi Code and DeepSeek Harness.</p>
 The AI tools keep working on your computer. From your phone you follow their sessions, approve commands, answer their
 questions, send the next task by text or voice, and open the files they make.
 
-This repository only has the installers, not the source code.
+This repository only has the installers, not the source code
 
 ## Install
 
